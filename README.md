@@ -11,3 +11,6 @@
  - PO : Glenn
  - SM : Quentin
  - TEAM DEVELOPPERS : Jovan, Julien, Theo
+ 
+## Purpose
+ Develop an expense tracking solution
